@@ -1,0 +1,11 @@
+pandas_ta
+yfinance
+pyarrow
+tabulate
+openai
+langchain 
+tavily-python
+langgraph
+langchain-community
+langchainhub
+langchain-openai
